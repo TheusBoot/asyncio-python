@@ -2,6 +2,8 @@ print('HEELO WORD')
 
 print('oi')
 print('oi')
+print('oi')
+print('oi')
 
 x = 10
 
